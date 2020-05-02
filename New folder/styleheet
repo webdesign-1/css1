@@ -1,0 +1,12 @@
+h1 {
+	background-color:#B3B3B3;
+	font-size:150%;
+}
+header {
+background:#666666;
+text-align:centre;
+	
+}
+p {
+	color:red;
+}
